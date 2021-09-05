@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tim Blaase
+- 👋 Hi, I’m Tim
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning at 42Heilbronn
 - 💞️ I’m looking to collaborate on learning to code
