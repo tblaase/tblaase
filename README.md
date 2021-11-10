@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning at 42Heilbronn
+- 🌱 I’m currently working on minishell with [tschmitt](https://github.com/toni-schmitt)
 - 💞️ I’m looking to collaborate on learning to code
 - 📫 How to reach me:
 - - Discord: CustosScriptis#9808
