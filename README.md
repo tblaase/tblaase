@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m interested in Coding
 - 🌱 I’m currently working on NetPractice
-- 💞️ I’m looking to collaborate on learning to code
+- 💞️ I’m looking to collaborate on learning to code efficiently
 - 📫 How to reach me:
 - - Discord: CustosScriptis#9808
 - - Slack: tblaase
