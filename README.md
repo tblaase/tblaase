@@ -3,8 +3,8 @@
 - 🌱 I’m currently working on NetPractice
 - 💞️ I’m looking to collaborate on learning to code efficiently
 - 📫 How to reach me:
-- - Discord: CustosScriptis#9808
-- - Slack: tblaase
+- - Discord: `CustosScriptis#9808`
+- - Slack: `tblaase` (42Born2code)
 - - Email: tblaase@student.42heilbronn.de
 
 <!---[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tblaase&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>--->
