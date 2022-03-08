@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m interested in Coding
-- 🌱 I’m currently working on NetPractice
+- 🌱 I’m currently working on CPP-Module-00
 - 💞️ I’m looking to collaborate on learning to code efficiently
 - 📫 How to reach me:
 - - Discord: `CustosScriptis#9808`
