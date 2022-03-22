@@ -11,3 +11,6 @@
 ![Metrics](https://github.com/tblaase/tblaase/blob/main/github-metrics.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tblaase&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+<br>
+<br>
+![Profile views](https://gpvc.arturio.dev/tblaase)
