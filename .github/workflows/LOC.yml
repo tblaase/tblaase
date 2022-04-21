@@ -23,5 +23,5 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: get loc of all github repos
         run: |
-          chmod +x "${GITHUB_WORKSPACE}/.github/test.sh"
+        #  chmod +x "${GITHUB_WORKSPACE}/.github/test.sh"
           "${GITHUB_WORKSPACE}/.github/test.sh"
