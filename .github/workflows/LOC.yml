@@ -23,4 +23,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: get loc of all github repos
         run: |
-          ./test.sh
+          curl https://github.com/tblaase/tblaase/blob/main/.github/workflows/test.sh
