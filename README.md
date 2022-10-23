@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m interested in learning to code efficiently
-- 🌱 I’m currently working on CPP-Modules
+- 🌱 I’m currently working on ft_transcendence
 - 📫 How to reach me:
 - - Discord: `CustosScriptis#9808`
 - - Slack: `tblaase` (42born2code)
