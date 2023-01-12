@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m interested in learning to code efficiently
-- 🌱 I’m currently working on ft_transcendence
+- 🌱 I’m currently preparing for my intership at [IDS Imaging](https://ids-imaging.com/)
 - 📫 How to reach me:
 - - Discord: `CustosScriptis#9808`
 - - Slack: `tblaase` (42born2code)
