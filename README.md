@@ -10,7 +10,7 @@
 <!---[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=tblaase)](https://profile.intra.42.fr/users/tblaase)--->
 ![Metrics](https://github.com/tblaase/tblaase/blob/main/github-metrics.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tblaase&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tblaase&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 <br>
 <br>
 ![Profile views](https://gpvc.arturio.dev/tblaase)
