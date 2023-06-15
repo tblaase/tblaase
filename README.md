@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code efficiently
 - 🌱 I’m currently doing my internship at [IDS Imaging](https://ids-imaging.com/)
 - 📫 How to reach me:
-- - Discord: `CustosScriptis#9808`
+- - Discord: `CustosScriptis`
 - - Slack: `tblaase` (42born2code)
 - - Email: `tblaase@student.42heilbronn.de`
 
