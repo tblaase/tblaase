@@ -13,4 +13,4 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tblaase&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 <br>
 <br>
-![Profile views](https://pageview.vercel.app/?github_user=tblaase)
+![Profile views](https://komarev.com/ghpvc/?username=tblaase)
