@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m interested in learning to code efficiently
-- 🌱 I’m currently doing my internship at [IDS Imaging](https://ids-imaging.com/)
+- 🌱 I’m currently working fulltime at [IDS Imaging](https://ids-imaging.com/) as Software Developer
 - 📫 How to reach me:
 - - Discord: `CustosScriptis`
 - - Slack: `tblaase` (42born2code)
